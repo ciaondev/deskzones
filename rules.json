@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "categories": [
     "3D설계",
     "그래픽",
@@ -90,7 +90,8 @@
       "powermill",
       "hypermill",
       "esprit",
-      "gibbscam"
+      "gibbscam",
+      "bambuglobal"
     ],
     "그래픽": [
       "photoshop",
@@ -353,7 +354,12 @@
       "ecotank",
       "laserjet",
       "officejet",
-      "deskjet"
+      "deskjet",
+      "revo uninstaller",
+      "revouninstaller",
+      "vdd control",
+      "mobile device center",
+      "telecop"
     ],
     "오피스·업무": [
       "microsoft office",
@@ -458,7 +464,15 @@
       "카카오뱅크",
       "증권",
       "영웅문",
-      "키움"
+      "키움",
+      "erp",
+      "bluemax",
+      "qmoney",
+      "큐머니",
+      "winmail opener",
+      "zebradesigner",
+      "zebra designer",
+      "nexusfile"
     ],
     "인터넷·미디어": [
       "chrome",
@@ -991,7 +1005,8 @@
       "thinkware",
       "signify",
       "philips",
-      "technitium"
+      "technitium",
+      "vs revo group"
     ],
     "오피스·업무": [
       "microsoft office",
@@ -1015,12 +1030,18 @@
       "dropbox",
       "douzone",
       "더존",
-      "korean intellectual property"
+      "korean intellectual property",
+      "secui",
+      "qsolution",
+      "eolsoft",
+      "zebra technologies",
+      "xiles"
     ],
     "인터넷·미디어": [
       "google llc",
       "mozilla",
-      "opera",
+      "opera norway",
+      "opera software",
       "brave software",
       "vivaldi",
       "naver",
