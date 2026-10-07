@@ -1,6 +1,6 @@
 {
-  "version": "0.9.3",
-  "setup_url": "https://github.com/ciaondev/deskzones/releases/download/v0.9.3/DeskZones-Setup-0.9.3.exe",
-  "sha256": "63cbabf9298c6c8c5968de9b475038eda3f4d0722b44671c21726f7c8f71924b",
-  "notes": "DeskZones 0.9.3\n- 데이터 파일을 안전하게 저장하고 매일 백업, 깨지면 백업으로 복구\n- 문제가 생기면 알림은 한 번만, 진단 정보 복사 버튼\n- 로그 파일 크기 제한(순환), 같은 미분류 제보 반복 방지\n- 분류 규칙 업데이트를 되돌릴 수 있음\n- 분류 규칙 v5 포함(제보로 추가된 프로그램들), 회사 이름 판단 개선\n\n설치만으로는 아이콘이 움직이지 않습니다."
+  "version": "0.9.5",
+  "setup_url": "https://github.com/ciaondev/deskzones/releases/download/v0.9.5/DeskZones-Setup-0.9.5.exe",
+  "sha256": "b1937ac3339d29774e08a0a1f8f6604d624665cf045f361d0b7df07bd600d413",
+  "notes": "DeskZones 0.9.5\n- 탐색기가 바쁠 때(절전에서 깨어남, 윈도우 업데이트 등) DeskZones가 멈춰 꺼지던 문제 수정: 탐색기 작업에 시간 제한, 멈춤 감시\n- 그래도 멈추거나 튕기면 윈도우가 자동으로 다시 실행\n- 모니터가 꺼졌다 켜지거나 구성이 바뀔 때 펜스를 바로 다시 표시\n- 로그인 직후 탐색기가 바쁠 때 시작이 안 되던 문제 수정\n- 설치 전 배치로 되돌린 뒤 다시 정리하면 자동 배치·분류 학습을 다시 켤지 물어봄 (0.9.4)\n\n설치만으로는 아이콘이 움직이지 않습니다."
 }
