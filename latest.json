@@ -1,6 +1,6 @@
 {
-  "version": "0.9.8",
-  "setup_url": "https://github.com/ciaondev/deskzones/releases/download/v0.9.8/DeskZones-Setup-0.9.8.exe",
-  "sha256": "b0e7c8e26644eacc33ba7ca0e7002d9d0ea1ecc7b3400d6d21793ff687c6cab8",
-  "notes": "DeskZones 0.9.8\n- 정리 미리보기와 펜스는 항상 Windows의 주 디스플레이(설정 > 디스플레이에서 정한 화면) 기준입니다.\n- 주 디스플레이가 꺼져 있거나 연결이 끊긴 동안에는 다른 모니터를 대신 잡지 않고 기다립니다. 정리·펜스를 멈추고 안내만 하며, 주 디스플레이를 켜면 저장된 펜스가 그대로 돌아옵니다.\n- 0.9.7 포함: 보조 모니터를 끄고 켜도 펜스 유지\n- 0.9.5 포함: 탐색기가 바쁠 때 멈춤 방지, 멈추면 자동 재실행\n\n설치만으로는 아이콘이 움직이지 않습니다."
+  "version": "0.9.9",
+  "setup_url": "https://github.com/ciaondev/deskzones/releases/download/v0.9.9/DeskZones-Setup-0.9.9.exe",
+  "sha256": "f3c27480ba8f8f707ce1fce99f28aa872f6a65ac9bd08573bd08995fb9202a2a",
+  "notes": "DeskZones 0.9.9\n- 주 디스플레이를 Windows에 직접 물어서(MonitorFromPoint) 정합니다. 모니터 목록에서 주 디스플레이 표시가 빠져도 정확히 찾습니다.\n- (0,0)이 아닌 곳에 있는 화면을 주 디스플레이로 잘못 잡지 않습니다.\n- 0.9.8 포함: 주 디스플레이가 꺼져 있는 동안에는 다른 모니터를 대신 잡지 않고 기다림\n- 0.9.7 포함: 보조 모니터를 끄고 켜도 펜스 유지\n- 0.9.5 포함: 탐색기가 바쁠 때 멈춤 방지, 멈추면 자동 재실행\n\n설치만으로는 아이콘이 움직이지 않습니다."
 }
