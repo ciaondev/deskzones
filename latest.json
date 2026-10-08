@@ -1,6 +1,6 @@
 {
-  "version": "0.9.6",
-  "setup_url": "https://github.com/ciaondev/deskzones/releases/download/v0.9.6/DeskZones-Setup-0.9.6.exe",
-  "sha256": "9ea86b8ad0e713961242c950a74a3687d1114d829244b4c7e331c8d03d3fdf07",
-  "notes": "DeskZones 0.9.6\n- 메인 모니터가 꺼지거나 빠져서 윈도우가 주 모니터를 정하지 못할 때 정리 미리보기가 열리지 않던 문제 수정 (윈도우10). 이제 (0,0) 위치 모니터나 가장 큰 모니터를 메인으로 씁니다.\n- 0.9.5의 내용 포함: 탐색기가 바쁠 때 멈춰 꺼지던 문제 수정, 멈추면 자동 재실행, 모니터가 켜지면 펜스를 바로 다시 표시\n\n설치만으로는 아이콘이 움직이지 않습니다."
+  "version": "0.9.7",
+  "setup_url": "https://github.com/ciaondev/deskzones/releases/download/v0.9.7/DeskZones-Setup-0.9.7.exe",
+  "sha256": "1a2ebad02b41fc53f6986c9bb50aa28faeaf2b6f14a6f226d0640800eb5224d1",
+  "notes": "DeskZones 0.9.7\n- 메인 모니터는 그대로인데 보조 모니터를 끄거나 켜도 펜스가 사라지지 않고 유지됩니다 (메인 모니터의 해상도·배율이 같으면 저장된 펜스를 그대로 사용)\n- 0.9.6 포함: 메인 모니터가 빠져 주 모니터가 없을 때 정리 미리보기 오류 수정\n- 0.9.5 포함: 탐색기가 바쁠 때 멈춰 꺼지던 문제 수정, 멈추면 자동 재실행, 모니터가 켜지면 펜스를 바로 다시 표시\n\n설치만으로는 아이콘이 움직이지 않습니다."
 }
